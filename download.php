@@ -16,4 +16,4 @@
 ?>
 
 <!-- then use this link format in your webpage to link to the download, replace filename as appropriate -->
- <a href="http://URL-to-dowbload/direct-download.php?filename=audio.mp3">Download the mp3</a>
+ <a href="http://URL-to-dowbload/download.php?filename=audio.mp3">Download the mp3</a>
